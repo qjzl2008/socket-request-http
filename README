@@ -1,0 +1,7 @@
+// Copyright 2012.  All rights reserved.
+// http://skycpp.cn
+// Author: zhaolei
+// E-mail: qjzl2008@163.com
+CRequestHttp is a class that using c++ socket request http 
+this class not only provided simple interface to request web but also hava many base inerface for customize
+
